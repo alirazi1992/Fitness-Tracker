@@ -68,9 +68,14 @@ FitnessTracker/
 ## 📷 Screenshots
 
 ### Log Workouts	
+
 <img src="./pag1.png" alt="Main Window" width="500"/>
+
 ### History	
+
 <img src="./page2.png" alt="Main Window" width="500"/>
+
 ### Progress Chart
+
 <img src="./page3.png" alt="Main Window" width="500"/>
 
