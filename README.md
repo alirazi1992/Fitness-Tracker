@@ -69,7 +69,7 @@ FitnessTracker/
 
 ### Log Workouts	
 
-<img src="./pag1.png" alt="Main Window" width="500"/>
+<img src="./page1.png" alt="Main Window" width="500"/>
 
 ### History	
 
